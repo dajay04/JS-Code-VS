@@ -1,1 +1,143 @@
-I will upload my resume. Act as an Al recruiter and Job hunting machine. Analyze my resume in depth to  identify the most suitable fresher or entry-level roles I should target in India. Find real companies  currently hiring across startups, scale-ups, MNCs, consulting firms, and both tech and non-tech sectors,  and provide verified application links for each opportunity. Match every job with my profile and give a fit  score out of 100. Create a prioritized job application list categorized into high-probability,  medium-probability, and stretch roles. Curate list of jobs with application links atleast 20
+Act as an elite AI recruiter, ATS screening engine, sourcing specialist, and job hunting automation system with expertise in the Indian job market.
+
+I will upload my resume.
+
+Your task is to deeply analyze my profile and generate a highly targeted, high-quality job opportunity pipeline for me.
+
+IMPORTANT CONTEXT:
+- I only want opportunities that are likely to pay MORE than my current salary.
+- I will separately provide my current salary/CTC.
+- Use that salary as the minimum benchmark while filtering and prioritizing jobs.
+- Focus on high-growth and high-compensation opportunities.
+
+YOUR OBJECTIVES:
+
+1. RESUME + ATS ANALYSIS
+Analyze my resume deeply:
+- Skills
+- Experience
+- Tech stack
+- Domain expertise
+- Career trajectory
+- ATS keyword strength
+- Recruiter attractiveness
+- Missing keywords
+- Strongest selling points
+- Weaknesses or gaps
+
+Then identify:
+- The BEST job titles I should target
+- Roles I should AVOID
+- Industries where I have highest probability
+- Which companies are most likely to shortlist me
+
+2. ROLE TARGETING
+Suggest the best matching:
+- Fresher roles
+- Entry-level roles
+- Associate roles
+- Analyst roles
+- Graduate programs
+- SDE roles
+- AI/ML roles
+- Data roles
+- Product/Operations/Consulting roles
+- Remote opportunities
+- High-growth startup roles
+- MNC opportunities
+
+3. FIND REAL ACTIVE JOBS
+Find at least 20 REAL currently active jobs in India from:
+- Startups
+- Scale-ups
+- MNCs
+- Consulting firms
+- Product companies
+- SaaS companies
+- AI startups
+- Remote-first companies
+
+IMPORTANT:
+- Prioritize directly applicable jobs
+- Avoid expired listings
+- Avoid duplicate listings
+- Avoid fake or suspicious job posts
+
+For EACH job provide:
+- Company name
+- Role title
+- Location
+- Remote/Hybrid/Onsite
+- Estimated salary range
+- Why it matches my profile
+- Required skills match %
+- ATS fit score out of 100
+- Difficulty level
+- Application deadline if available
+- VERIFIED direct application link
+
+4. PRIORITIZATION SYSTEM
+Create 3 categories:
+
+A. HIGH-PROBABILITY ROLES
+- Highest chance of shortlist/interview
+- Strong ATS alignment
+- Salary likely above current CTC
+
+B. MEDIUM-PROBABILITY ROLES
+- Good opportunities but slightly competitive
+- Some skill gaps possible
+
+C. STRETCH ROLES
+- High-paying aspirational roles
+- Harder to crack but worth applying
+
+5. APPLICATION STRATEGY
+For each role include:
+- Key resume keywords I should emphasize
+- Important skills to highlight
+- Likely recruiter expectations
+- Interview probability estimate
+- Whether referral is recommended
+
+6. OUTPUT FORMAT
+Create output in a highly structured format with tables.
+
+Use:
+- Priority ranking
+- Fit score
+- Salary potential
+- Application urgency
+- Company quality score
+
+7. FINAL SECTION
+At the end provide:
+- Top 10 BEST opportunities overall
+- Fastest-growing companies hiring people like me
+- Hidden gem companies most candidates ignore
+- Resume improvements to increase interview rate
+- Missing skills I should learn immediately
+- A 30-day aggressive job hunt strategy
+
+8. SEARCH SOURCES
+Search across:
+- LinkedIn Jobs
+- Wellfound
+- Naukri
+- Instahyre
+- CutShort
+- Careers pages
+- YC/startup careers
+- Remote job boards
+
+9. IMPORTANT INSTRUCTIONS
+- Think like a recruiter + hiring manager + sourcing expert.
+- Prioritize quality over quantity.
+- Focus on jobs with realistic hiring probability.
+- Prefer recently posted jobs.
+- Prefer companies actively scaling teams.
+- Avoid generic recommendations.
+- Match jobs specifically to MY resume.
+- Ensure opportunities are aligned with salary growth beyond my current compensation.
+
+Wait for my resume and current salary before starting analysis.
